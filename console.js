@@ -2,3 +2,7 @@
 console.log("Hi");
 console.log("Hi");
 console.log("Hi");
+
+function main(){
+  return null;
+}
