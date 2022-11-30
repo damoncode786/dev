@@ -6,3 +6,6 @@ console.log("Hi");
 function main(){
   return null;
 }
+
+main();
+console.log("Hi");
